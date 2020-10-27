@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myFirstSpringProject" />
+        <module name="myFirstSpringProject2 yeni calisiyor" />
+        <module name="myFirstSpringProject2 calisiyor - Copy (3)" />
+        <module name="HelpDesk System" />
+        <module name="HelpDesk System 4" />
+        <module name="HelpDesk System 3" />
+        <module name="myFirstSpringProject2 yeni calisiyor - Copy" />
+        <module name="myFirstSpringProject2 - Copy (3)" />
+        <module name="myFirstSpringProject2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
